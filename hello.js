@@ -1,1 +1,1 @@
-console.log('Loading function');
+console.log('Hello');
